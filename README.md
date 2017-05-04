@@ -4,7 +4,7 @@
 
 > The repository for *high quality* TypeScript type definitions.
 
-Also see the [definitelytyped.org](http://definitelytyped.org) website, although information in this README is more up-to-date.
+Also see the [definitelytyped.org](http://definitelytyped.org) website, although informat ion in this README is more up-to-date.
 
 
 ## What are declaration files?
